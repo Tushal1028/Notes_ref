@@ -2,10 +2,10 @@
 </br>
 
 **Than Install Some extations for vs code**
-</br>
-1.Git Blame
-2.git-autoconfig
-3.GitHub Theme      //Optinal
+</br> 
+1. Git Blame
+2. git-autoconfig
+3. GitHub Theme      //Optinal
 
 
 # Run This Command After Download Git
